@@ -1,0 +1,1 @@
+#forumula para validar um triangulo
